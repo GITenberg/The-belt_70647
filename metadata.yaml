@@ -1,0 +1,36 @@
+_repo: The-belt_70647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: West, Wallace
+    alias: West, Wallace George
+    birthdate: 1900
+    deathdate: 1980
+    gutenberg_agent_id: '33900'
+    url: http://www.gutenberg.org/2009/agents/33900
+    wikipedia: https://en.wikipedia.org/wiki/Wallace_West
+description: ''
+gutenberg_issued: '2023-04-27'
+identifiers:
+  gutenberg: '70647'
+language: en
+pgterms:marc905: 20220528062352west
+pgterms:marc906: '1951'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bColumbia Publications, Inc., $c1951.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Factories -- Fiction'
+- !lcsh 'Mines and mineral resources -- Fiction'
+- !lcsh 'Human evolution -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The belt
+url: http://www.gutenberg.org/ebooks/70647
